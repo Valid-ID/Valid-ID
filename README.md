@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jhonathan aka Valid.ID
 =================================================================================================================================
 
-Cybersecurity Professional
+aka Valid.ID The Cybersecurity Professional 
 --------------------------
 
 My journey in tech has led me to develop a passion for cybersecurity. I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst to start. Looking to building value in the industry and start implementing the new skills I'm learning. I ultimately aim to earn the title of Security Cloud Engineer/Architect. Looking forward to experimenting in the different areas of cybersecurity like red team/blue team, governance, cryptography, cloud. I'm excited to start this seemingly endless journey that is cybersecurity. I'm here to be of service and bring value wherever I go.
