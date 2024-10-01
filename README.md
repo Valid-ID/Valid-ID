@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 aka Valid.ID - The Cybersecurity Professional 
 --------------------------
 
-With over two decades of experience in the tech industry as a cable technician, I've developed a strong technical foundation and a deep passion for cybersecurity. After recently completing the Google Cybersecurity Certification, I am eager to transition into this dynamic field, aiming to start as a Tier 1 Analyst in a Security Operations Center (SOC). I'm committed to applying and expanding my skills to deliver value to the industry.
-
-My ultimate goal is to become a Security Cloud Engineer/Architect. I'm enthusiastic about exploring various areas of cybersecurity, including red teaming, blue teaming, governance, cryptography, cloud architecture, network security, machine learning, and threat hunting. I'm excited to embark on this journey of continuous learning and innovation. I'm here to contribute, be of service, and bring value wherever I go.
+With over two decades of experience in the tech industry as a cable technician, I've developed a strong technical foundation and a deep passion for cybersecurity. After recently completing the Google Cybersecurity Certification, I am eager to transition into this dynamic field, aiming to start as a Tier 1 Analyst in a Security Operations Center (SOC). I'm committed to applying and expanding my skills to deliver value to the industry. I'm excited to embark on this journey of continuous learning and innovation. I'm here to contribute, be of service, and bring value wherever I go.
 
 * 🌍  I'm based in Atlanta, GA
 * ✉️  You can contact me at [valid.id@tutamail.com](mailto:valid.id@tutamail.com)
