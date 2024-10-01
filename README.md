@@ -7,7 +7,7 @@ Cybersecurity Professional
 My journey in tech has led me to develop a passion for cybersecurity. I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst to start. Looking to building value in the industry and start implementing the new skills I'm learning. I ultimately aim to earn the title of Security Cloud Engineer/Architect. Looking forward to experimenting in the different areas of cybersecurity like red team/blue team, governance, cryptography, cloud. I'm excited to start this seemingly endless journey that is cybersecurity. I'm here to be of service and bring value wherever I go.
 
 * 🌍  I'm based in Atlanta, GA
-* ✉️  You can contact me at [attxtech@gmail.com](mailto:attxtech@gmail.com)
+* ✉️  You can contact me at [valid.id@tutamail.com](mailto:valid.id@tutamail.com)
 * 🧠  I'm actively learning more about Python, Linux, Azure, Sentinel, Wireshark, Nmap
 * 🤝  I'm open to collaborating on AI, Cybersecurity, Tech, Home Automation, Design, Programming
 * ⚡  I just want to build value
