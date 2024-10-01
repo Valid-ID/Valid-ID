@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jhonathan
 =================================================================================================================================
 
-aka Valid.ID The Cybersecurity Professional 
+aka Valid.ID - The Cybersecurity Professional 
 --------------------------
 
 With over two decades of experience in the tech industry as a cable technician, I've developed a strong technical foundation and a deep passion for cybersecurity. After recently completing the Google Cybersecurity Certification, I am eager to transition into this dynamic field, aiming to start as a Tier 1 Analyst in a Security Operations Center (SOC). I'm committed to applying and expanding my skills to deliver value to the industry.
@@ -13,6 +13,43 @@ My ultimate goal is to become a Security Cloud Engineer/Architect. I'm enthusias
 * 🧠  I'm actively learning more about Python, Linux, Azure, Sentinel, Wireshark, Nmap
 * 🤝  I'm open to collaborating on AI, Cybersecurity, Tech, Home Automation, Design, Programming
 * ⚡  I just want to build value
+
+# Welcome to My Cybersecurity Journey
+
+## About Me
+
+With over 20 years of experience in the tech industry as a cable technician, I'm embarking on an exciting transition into cybersecurity. My hands-on background has equipped me with a unique perspective on network infrastructure and a knack for problem-solving in complex systems.
+
+## My Mission
+
+I'm on a mission to leverage my technical expertise and newly acquired cybersecurity skills to make a meaningful impact in the digital security landscape. My immediate goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my knowledge in real-world scenarios and contribute to protecting critical assets.
+
+## Career Aspirations
+
+While I'm starting my journey in SOC operations, my long-term vision is to grow into a Security Cloud Engineer/Architect role. I'm fascinated by the diverse aspects of cybersecurity, including:
+
+- Red Team/Blue Team Operations
+- Governance and Compliance
+- Cryptography
+- Cloud Security Architecture
+- Network Security
+- Machine Learning in Cybersecurity
+- Threat Hunting and Intelligence
+
+## What You'll Find Here
+
+This repository showcases my progress, projects, and learnings in the cybersecurity field. You'll find:
+
+- Projects demonstrating practical security implementations
+- Code samples and scripts for security automation
+- Documentation of my learning journey and certifications
+- Contributions to open-source security tools
+
+## Let's Connect
+
+I'm always eager to connect with fellow cybersecurity enthusiasts, mentors, and potential collaborators. Feel free to reach out if you want to discuss security, share knowledge, or explore potential opportunities.
+
+Remember: In the world of cybersecurity, we're stronger together. Let's make the digital world a safer place, one commit at a time!
 
 ### Skills
 
