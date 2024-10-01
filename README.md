@@ -4,7 +4,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 aka Valid.ID - The Cybersecurity Professional 
 --------------------------
 
-With over two decades of experience in the tech industry as a cable technician, I've developed a strong technical foundation and a deep passion for cybersecurity. After recently completing the Google Cybersecurity Certification, I am eager to transition into this dynamic field, aiming to start as a Tier 1 Analyst in a Security Operations Center (SOC). I'm committed to applying and expanding my skills to deliver value to the industry. I'm excited to embark on this journey of continuous learning and innovation. I'm here to contribute, be of service, and bring value wherever I go.
+With over two decades of hands-on experience in the tech industry as a cable technician, I've cultivated a robust technical foundation and developed a profound passion for cybersecurity. My journey has equipped me with a unique perspective on network infrastructure and a knack for troubleshooting complex systems in real-world environments.
+Recently, I've taken significant steps to formalize my cybersecurity expertise:
+
+- Completed the Google Cybersecurity Certification
+- Earned the CompTIA Security+ certification
+
+These achievements, combined with my extensive technical background, have positioned me to make a meaningful transition into the cybersecurity field. My immediate goal is to leverage this blend of practical experience and specialized knowledge as a Tier 1 Analyst in a Security Operations Center (SOC).
+I approach cybersecurity with the same dedication and problem-solving mindset that has defined my career in cable technology. I'm committed to:
+
+- Continuously expanding my skills and staying ahead of emerging threats
+- Applying my unique blend of field experience and theoretical knowledge to real-world security challenges
+- Contributing valuable insights drawn from my years of working with diverse network infrastructures
+
+I view cybersecurity not just as a career shift, but as an exciting journey of continuous learning and innovation. My aim is to bring tangible value to every team and organization I work with, always staying curious, adaptable, and ready to tackle the ever-evolving challenges in this critical field.
+I'm here to contribute, innovate, and help build a more secure digital future. Let's connect and explore how we can make a difference in the world of cybersecurity!
 
 * 🌍  I'm based in Atlanta, GA
 * ✉️  You can contact me at [valid.id@tutamail.com](mailto:valid.id@tutamail.com)
