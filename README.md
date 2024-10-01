@@ -3,6 +3,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 aka Valid.ID - The Cybersecurity Professional 
 --------------------------
+* 🌍  I'm based in Atlanta, GA
+* ✉️  You can contact me at [valid.id@tutamail.com](mailto:valid.id@tutamail.com)
+* 🧠  I'm actively learning more about Python, Linux, Azure, Sentinel, Wireshark, Nmap
+* 🤝  I'm open to collaborating on AI, Cybersecurity, Tech, Home Automation, Design, Programming
+* ⚡  I just want to build value
+
+# Welcome to My Cybersecurity Journey
+
+## About Me
 
 With over two decades of hands-on experience in the tech industry as a cable technician, I've cultivated a robust technical foundation and developed a profound passion for cybersecurity. My journey has equipped me with a unique perspective on network infrastructure and a knack for troubleshooting complex systems in real-world environments.
 Recently, I've taken significant steps to formalize my cybersecurity expertise:
@@ -19,18 +28,6 @@ I approach cybersecurity with the same dedication and problem-solving mindset th
 
 I view cybersecurity not just as a career shift, but as an exciting journey of continuous learning and innovation. My aim is to bring tangible value to every team and organization I work with, always staying curious, adaptable, and ready to tackle the ever-evolving challenges in this critical field.
 I'm here to contribute, innovate, and help build a more secure digital future. Let's connect and explore how we can make a difference in the world of cybersecurity!
-
-* 🌍  I'm based in Atlanta, GA
-* ✉️  You can contact me at [valid.id@tutamail.com](mailto:valid.id@tutamail.com)
-* 🧠  I'm actively learning more about Python, Linux, Azure, Sentinel, Wireshark, Nmap
-* 🤝  I'm open to collaborating on AI, Cybersecurity, Tech, Home Automation, Design, Programming
-* ⚡  I just want to build value
-
-# Welcome to My Cybersecurity Journey
-
-## About Me
-
-With over 20 years of experience in the tech industry as a cable technician, I'm embarking on an exciting transition into cybersecurity. My hands-on background has equipped me with a unique perspective on network infrastructure and a knack for problem-solving in complex systems.
 
 ## My Mission
 
